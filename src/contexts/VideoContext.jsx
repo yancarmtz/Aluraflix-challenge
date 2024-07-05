@@ -12,7 +12,6 @@ export const VideoProvider = ({ children }) => {
 
     const fetchVideos = async () => {
         try {
- //           const response = await fetch('http://localhost:3000/videos');
             const response = await fetch('https://my-json-server.typicode.com/yancarmtz/aluraflix-api/videos');
             const data = await response.json();
             setVideos(data);
@@ -20,8 +19,6 @@ export const VideoProvider = ({ children }) => {
             console.error('Error fetching videos:', error);
         }
     };
-
-
 
     useEffect(() => {
         fetchVideos();
