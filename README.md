@@ -1,4 +1,4 @@
-PARA VER LA PAGINA DE ALURA CLIC EN VERCEL DA CLIC A https://aluraflix-challenge-beta.vercel.app/
+PARA VER LA PAGINA DE ALURAFLIX CLIC EN VERCEL DA CLIC A https://aluraflix-challenge-beta.vercel.app/
 
 ![image](https://github.com/yancarmtz/Aluraflix-challenge/assets/61806656/f4674822-91a4-4797-a6f0-e6435e926db0)
 
